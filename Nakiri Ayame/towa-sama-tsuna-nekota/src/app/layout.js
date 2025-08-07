@@ -20,7 +20,9 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
+        <header>Minato Aqua 2da Generación de Hololive JP</header>
         {children}
+        <footer>Morena Vega y Paula Chong 5toB Informática  </footer>
       </body>
     </html>
   );

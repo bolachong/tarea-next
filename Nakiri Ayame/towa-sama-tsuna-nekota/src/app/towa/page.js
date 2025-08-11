@@ -1,3 +1,5 @@
+import Button from "@/components/Button";
+
 export default function AquaPage(){
     return(
         <>
@@ -49,6 +51,8 @@ export default function AquaPage(){
                 (I love you, oh, oh, oh, oh, oh)
                 (Love you, love you, oh, oh, oh, oh, oh)
                 （あぁ 愛してもっと）</h3>
+                <Button></Button>
+                <button>ETIQUETA</button>
             
         </>
     )
